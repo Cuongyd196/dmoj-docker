@@ -126,7 +126,7 @@ Ensure that you also restart the Nginx container if you restart the site contain
 ## Setup Judge server
 
 ```sh
-$ git clone --recursive https://github.com/DMOJ/judge.git
+$ git clone --recursive https://github.com/Cuongyd196/judge-server
 $ cd judge/.docker
 $ make judge-tier1
 ```
